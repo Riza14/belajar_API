@@ -1,0 +1,13 @@
+[
+  {
+    "nama": "Riza Febrian",
+    "umur": 20,
+    "nim": "20146009",
+    "lulus": false,
+    "hobby": ["coding", "sepak bola"],
+    "pembimbing": {
+      "pembimbing1": "juniana husna",
+      "pembimbing2": "polan"
+    }
+  }
+]

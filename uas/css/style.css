@@ -1,0 +1,80 @@
+:root {
+  --hitam: #000000;
+  --biru: #00bafb;
+  --putih: #ffffff;
+  --shadow: 0 2px 2px rgb(0 0 0 / 0.5);
+}
+body {
+  font-size: 1.2rem;
+  font-family: "Poppins", sans-serif;
+}
+
+.hero {
+  /* position: relative; */
+  min-height: 100vh;
+  background-color: var(--hitam);
+}
+
+.hero h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 3rem;
+  text-shadow: var(--shadow);
+}
+
+.hero h4 {
+  text-shadow: var(--shadow);
+}
+
+.hero p {
+  font-size: 1.2rem;
+}
+
+.hero img {
+  width: 250px;
+  height: 200px;
+}
+
+.hero a {
+  color: var(--hitam);
+  background-color: white;
+  box-shadow: var(--shadow);
+}
+
+.hero a:hover {
+  color: var(--putih);
+  background-color: var(--biru);
+  box-shadow: var(--shadow);
+}
+
+/* style sosmed */
+.sosmed{
+  min-height: 100vh;
+  background-color: var(--putih);
+  font-family: "Poppins", sans-serif;
+}
+
+
+/* style untuk mahasiswa */
+.mhs::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(../gambar/hms.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: -1;
+  filter: drop-shadow();
+}
+
+.mhs {
+  position: relative;
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+
+

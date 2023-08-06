@@ -1,0 +1,114 @@
+{
+  "Mahasiswa": [
+    {
+      "Nama": "Riza Febrian",
+      "Nim": 20146009,
+      "Prodi": "Sistem Informasi",
+      "Asal": "Bumi",
+      "Tempat": "Medan, 14 Feb 2000",
+      "Hobi": "-",
+      "Sosmed": "https://www.instagram.com/riza_rfb/",
+      "Foto": "rz.jpeg"
+    },
+    {
+      "Nama": "Mauliza Kamara",
+      "Nim": 20146008,
+      "Prodi": "Sistem Informasi",
+      "Asal": "Lambro bileu",
+      "Tempat": "Lambro bileu, 25 Mei 2002",
+      "Hobi": "Nyari duit",
+      "Sosmed": "https://www.instagram.com/maulizakamara/",
+      "Foto": "i.jpg"
+    },
+    {
+      "Nama": "Asyrafal manazily",
+      "Nim": 20146017,
+      "Prodi": "Sistem Informasi",
+      "Asal": "ulee gle",
+      "Tempat": "ulee gle, 24 Mei 2002",
+      "Hobi": "Adu mekanik",
+      "Sosmed": "https://www.instagram.com/fal.z/",
+      "Foto": "jil.jpg"
+    },
+    {
+      "Nama": "irham ilmayudra",
+      "Nim": 20146013,
+      "Prodi": "Sistem Informasi",
+      "Asal": "subulussalam",
+      "Tempat": "subulussalam, 01 Des 2001",
+      "Hobi": "rebahan",
+      "Sosmed": "https://www.instagram.com/irham_ilmayudra/",
+      "Foto": "logo.jpg"
+    },
+    {
+      "Nama": "Gunawan",
+      "Nim": 20146011,
+      "Prodi": "Sistem Informasi",
+      "Asal": "Teunom",
+      "Tempat": "Teunom, 10 Jun 2001",
+      "Hobi": "Kerja Bagus",
+      "Sosmed": "https://www.instagram.com/mhd_gunn/",
+      "Foto": "g.jpg"
+    },
+    {
+      "Nama": "Muhaikal Murad",
+      "Nim": 20146005,
+      "Prodi": "Sistem Informasi",
+      "Asal": "Aceh Besar",
+      "Tempat": "Aceh Besar, 27 Oct 2002",
+      "Hobi": "lose streak",
+      "Sosmed": "https://www.instagram.com/haikall227_/",
+      "Foto": "hai.jpg"
+    },
+    {
+      "Nama": "Muhammad hawary",
+      "Nim": 20146010,
+      "Prodi": "Sistem Informasi",
+      "Asal": "Aceh Besar",
+      "Tempat": "Aceh Besar, 22 Feb 2002",
+      "Hobi": "telat masuk",
+      "Sosmed": "https://www.instagram.com/hawary.assegaf/",
+      "Foto": "wery.jpg"
+    },
+    {
+      "Nama": "Zikra ulhusna",
+      "Nim": 20146003,
+      "Prodi": "Sistem Informasi",
+      "Asal": "indonesia",
+      "Tempat": "indonesia, 07 Oct 2002",
+      "Hobi": "healing",
+      "Sosmed": "https://www.instagram.com/zykraahsna/",
+      "Foto": "zakir.jpg"
+    },
+    {
+      "Nama": "Maria ulfa",
+      "Nim": 20146002,
+      "Prodi": "Sistem Informasi",
+      "Asal": "Banda aceh",
+      "Tempat": "Banda aceh, 29 Sep 2002",
+      "Hobi": "Akting",
+      "Sosmed": "https://www.instagram.com/_mariaullfa_/",
+      "Foto": "m.jpg"
+    },
+    {
+      "Nama": "Belong",
+      "Nim": 20146007,
+      "Prodi": "Sistem Informasi",
+      "Asal": "aceh",
+      "Tempat": "aceh, 22 oct 2004",
+      "Hobi": "baca buku",
+      "Sosmed": "https://www.instagram.com/Belong291/",
+      "Foto": "logo.jpg"
+    },
+    {
+      "Nama": "Rizky Ramadhan",
+      "Nim": 20146007,
+      "Prodi": "Sistem Informasi",
+      "Asal": "tidak diketahui",
+      "Tempat": "tidak diketahui",
+      "Hobi": "tidak diketahui",
+      "Sosmed": "https://www.instagram.com/Belong291/",
+      "Foto": "k.jpg"
+    }
+  ]
+}
